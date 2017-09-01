@@ -11,6 +11,7 @@ public class StringUtil {
 		if (str != null && !str.equals("")){
 			//11111
 			//33333
+			//工作空间的内容
 			return false;
 		}
 		return true;
