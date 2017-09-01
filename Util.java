@@ -9,6 +9,7 @@ public class StringUtil {
 
 	public static boolean isEmpty(String str) {
 		if (str != null && !str.equals("")){
+			//11111
 			return false;
 		}
 		return true;
