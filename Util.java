@@ -10,7 +10,7 @@ public class StringUtil {
 	public static boolean isEmpty(String str) {
 		if (str != null && !str.equals("")){
 			//11111
-			//33333
+			//333332222
 			//工作空间的内容
 			//dev增加
 			//1113333
