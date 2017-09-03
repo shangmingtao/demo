@@ -12,9 +12,6 @@ public class StringUtil {
 		//2222
 		//3333
 		if (str != null && !str.equals("")){
-			//11111
-			//33333
-			//工作空间的内容22222
 			return false;
 		}
 		return true;
