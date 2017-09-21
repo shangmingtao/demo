@@ -13,11 +13,9 @@ public class StringUtil {
 		//3333
 		if (str != null && !str.equals("")){
 			//11111
-			//333332222
-			//工作空间的内容
-			//dev增加
-			//1113333
-			return false;
+			//33333
+			//工作空间的内容22222
+			return true;
 		}
 		return true;
 
