@@ -8,7 +8,7 @@ public class StringUtil {
 	public static final String defaultKey = "linkdata1234567890";
 
 	public static boolean isEmpty(String str) {
-		//wwww
+		//wwww11111
 		//2222
 		//3333
 		if (str != null && !str.equals("")){
