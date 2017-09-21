@@ -15,7 +15,7 @@ public class StringUtil {
 			//11111
 			//33333
 			//工作空间的内容22222
-			return false;
+			return true;
 		}
 		return true;
 
